@@ -14,7 +14,7 @@ This is a Maven project, and should be compatible with popular IDEs like Intelli
 
 ### Usage & Documentation
 
-A compiled .jar is kept in the /bin directory for direct importing. The usage documentation is present in the project as Javadocs in the /javadocs directory.
+A compiled .jar is kept in the /bin directory for direct importing. The usage documentation is present in the project as Javadocs in the /javadocs directory. See a project using this library [here](https://github.com/udeyrishi/AndroidElasticSearchDataManager).
 
 ### License
 
