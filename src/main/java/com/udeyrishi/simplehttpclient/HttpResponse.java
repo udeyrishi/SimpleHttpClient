@@ -71,7 +71,7 @@ public class HttpResponse {
     /**
      * Getter for the response contents.
      *
-     * @return
+     * @return Returns the byte array of the response's contents.
      */
     public byte[] getContents() {
         return contents;
@@ -80,7 +80,7 @@ public class HttpResponse {
     /**
      * Getter for the response's status code.
      *
-     * @return
+     * @return Returns the response's status code.
      */
     public int getResponseCode() {
         return responseCode;
